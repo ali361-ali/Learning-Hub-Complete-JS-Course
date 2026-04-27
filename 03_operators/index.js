@@ -1,4 +1,4 @@
-//operator
+ //operator
 
 //arithmetic operator
 
