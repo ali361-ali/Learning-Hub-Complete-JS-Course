@@ -1,0 +1,8 @@
+let current_date=new Date()
+console.log(current_date)
+console.log(current_date.getDate())
+console.log(current_date.getDay())
+console.log(current_date.getFullYear())
+console.log(current_date.getMonth())
+console.log(current_date.getSeconds())
+console.log(current_date.getTime())
